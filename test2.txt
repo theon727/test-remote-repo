@@ -1,2 +1,0 @@
-This is test2.txt
-Add a second line.
